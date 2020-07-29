@@ -1,133 +1,145 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Lauana Prado",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
+      "cor": "var(--primary)",
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Lauana Prado - Cada Volta É Um Recomeço",
+          "url": "https://www.youtube.com/watch?v=TWW7Hoy7JDI"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Lauana Prado - Fruto Especial",
+          "url": "https://www.youtube.com/watch?v=DeKpSjDVWUI"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Lauana Prado - Deixaria Tudo",
+          "url": "https://www.youtube.com/watch?v=q0Vpc1px_II"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Lauana Prado - Acorrentado Em Você",
+          "url": "https://www.youtube.com/watch?v=n9HwHnEY1Ic"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Lauana Prado - Vai E Volta",
+          "url": "https://www.youtube.com/watch?v=6Jz3kLgivu8"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Lauana Prado - Cobaia",
+          "url": "https://www.youtube.com/watch?v=JZfAMghgqic"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Lauana Prado, Gabriel Diniz - Liga E Chora",
+          "url": "https://www.youtube.com/watch?v=PC081FZ55rU"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Lauana Prado - Trilha",
+          "url": "https://www.youtube.com/watch?v=C1wftuZNv-w"
         }        
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
+      "titulo": "The Ambassador",
+      "cor": "var(--primary)",
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Gusttavo Lima - Saudade Sua",
+          "url": "https://www.youtube.com/watch?v=HrpBSGaM_tc"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Gusttavo Lima - Por Um Gole a Mais",
+          "url": "https://www.youtube.com/watch?v=tAMgWk1yegU"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Gusttavo Lima - Te Amar Foi Ilusão",
+          "url": "https://www.youtube.com/watch?v=uv4WDDA9Z0c"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Gusttavo Lima - Caquinho",
+          "url": "https://www.youtube.com/watch?v=TNUTi5fmyoA"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Gusttavo Lima - Carta Branca",
+          "url": "https://www.youtube.com/watch?v=xFJFy4KDfTo"
+        },
+        {
+          "titulo": "REXPEITA NOSSO FIM BB",
+          "url": "https://www.youtube.com/watch?v=IrEFj4zpHgE"
+        }, 
+        {
+          "titulo": "Gusttavo Lima - Homem De Família",
+          "url": "https://www.youtube.com/watch?v=Vz9EXeF01A8"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
+      "titulo": "Marília Mendonça",
+      "cor": "var(--primary)",
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Marília Mendonça - Vira Homem",
+          "url": "https://www.youtube.com/watch?v=6i4zcAO5DoM"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Marília Mendonça - De Quem É A Culpa?",
+          "url": "https://www.youtube.com/watch?v=5hnSlCygsTs"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Marília Mendonça - Supera",
+          "url": "https://www.youtube.com/watch?v=7fMttPxpcmg"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Marília Mendonça - Graveto",
+          "url": "https://www.youtube.com/watch?v=CKtHg1jBREY"
+        },
+        {
+          "titulo": "Marília Mendonça - Tentativas",
+          "url": "https://www.youtube.com/watch?v=E4sYQwI45A4"
+        },
+        {
+          "titulo": "Marília Mendonça - Infiel",
+          "url": "https://www.youtube.com/watch?v=eCyMh-mZ1B0"
+        },
+        {
+          "titulo": "Marília Mendonça - Serenata",
+          "url": "https://www.youtube.com/watch?v=noKzDrxHioc"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "titulo": "Bruno & Marrone",
+      "cor": "var(--primary)",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Bruno & Marrone - Te Amar Foi Ilusão",
+          "url": "https://www.youtube.com/watch?v=4jzAc4ZsHCw"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Bruno & Marrone - Bijuteria",
+          "url": "https://www.youtube.com/watch?v=Sgu1YyIJcuk"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Bruno & Marrone - Vida Vazia",
+          "url": "https://www.youtube.com/watch?v=R_6MeYnDr_Q"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Bruno & Marrone - Boate Azul",
+          "url": "https://www.youtube.com/watch?v=8HVLFySv1yQ"
+        },
+        {
+          "titulo": "Bruno & Marrone - Sua Melhor Versão",
+          "url": "https://www.youtube.com/watch?v=3fEZBPtQblY"
+        },
+        {
+          "titulo": "Bruno & Marrone - Ficar Por Ficar",
+          "url": "https://www.youtube.com/watch?v=jVRL2Eus0x8"
         }
       ]
     },
     {
       "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
+      "cor": "var(--primary)",
       "videos": [
         {
           "titulo": "Final Fantasy 7",
@@ -148,36 +160,10 @@
         {
           "titulo": "Pokémon Let's Go Pikachu/Eevee",
           "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        }
-      ]
-    },
-    {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
-      "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
         }
       ]
     }
